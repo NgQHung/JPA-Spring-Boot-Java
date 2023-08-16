@@ -1,0 +1,1 @@
+insert into job(title, description) values('Frontend', 'very good');
